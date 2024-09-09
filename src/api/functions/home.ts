@@ -5,5 +5,5 @@ export const getContent = async () => {
 };
 
 export const getRecords = async () => {
-    return apiClient.post("/two.json");
+    return apiClient.get("/two.json");
 };
