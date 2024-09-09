@@ -1,0 +1,80 @@
+{
+    "title": "Пей воду за крипту",
+    "dailyGoal": {
+        "description": "Ежедневная цель",
+        "current": 2,
+        "total": 10
+    },
+    "waterGlasses": [
+        {
+            "id": 1,
+            "filled": true,
+            "reward": "crypto"
+        },
+        {
+            "id": 2,
+            "filled": true,
+            "reward": "crypto"
+        },
+        {
+            "id": 3,
+            "filled": false,
+            "reward": null
+        },
+        {
+            "id": 4,
+            "filled": false,
+            "reward": null
+        },
+        {
+            "id": 5,
+            "filled": false,
+            "reward": null
+        },
+        {
+            "id": 6,
+            "filled": false,
+            "reward": null
+        },
+        {
+            "id": 7,
+            "filled": false,
+            "reward": null
+        },
+        {
+            "id": 8,
+            "filled": false,
+            "reward": null
+        },
+        {
+            "id": 9,
+            "filled": false,
+            "reward": null
+        },
+        {
+            "id": 10,
+            "filled": false,
+            "reward": null
+        }
+    ],
+    "drinkWater": {
+        "label": "Пить воду",
+        "icon": "water_crypto"
+    },
+    "menu": {
+        "items": [
+            {
+                "label": "Главная",
+                "icon": "home"
+            },
+            {
+                "label": "Баланс",
+                "icon": "balance"
+            },
+            {
+                "label": "Задания",
+                "icon": "tasks"
+            }
+        ]
+    }
+}

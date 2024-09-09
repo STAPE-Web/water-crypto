@@ -1,0 +1,11 @@
+.Item {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    transition: 0.5s;
+}
+
+.Item:active {
+    opacity: 0.5;
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Сегодняшние рекорды",
+    "records": [
+        {
+            "time": "15:40",
+            "description": "В следующий раз",
+            "icon": "clock",
+            "glasses": 1
+        },
+        {
+            "time": "10:24",
+            "description": "Пил воду",
+            "icon": "water_crypto",
+            "glasses": 1
+        },
+        {
+            "time": "08:53",
+            "description": "Пил воду",
+            "icon": "water_crypto",
+            "glasses": 1
+        }
+    ]
+}

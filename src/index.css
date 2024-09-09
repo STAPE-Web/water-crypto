@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url("/fonts/minecraft.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: "Minecraft", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body,
+html {
+    max-width: 100%;
+    background: #000;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.3);
+}

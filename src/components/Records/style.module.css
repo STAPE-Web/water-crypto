@@ -1,0 +1,6 @@
+.Records {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 30px 100px;
+}
